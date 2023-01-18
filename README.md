@@ -4,11 +4,11 @@
 ##
 
 > - The expected node weights are 
-	>     - A->A=0  
-	> 	- A->B=3
-	>	- A->C=2
-	>	- A->D=2
-	> 	- A->E=6 
+	>- A->A=0  
+	>- A->B=3
+	>- A->C=2
+	>- A->D=2
+	>- A->E=6 
 ##
 ### Dijkstras
 >- When we are using dijkstra's algorithm we get a solution that satisfies for most of that condition since it can find path for directed graphs, but failing at finding the path for **A->D** and **A->E** since it does not consider negative weights and any alternate paths after one solution is found
@@ -26,11 +26,11 @@
 >- If a node a no other node pointing to it it will never get visited
 >- Prim's algorithm do not work for a directed graph and thus the solution that we might get can be a disconnected graph with wrong MST
 >- The output obtained:
->  -A-A=0
->  -A-B=0
->  A-C=0
->  A-D=0
->  A-E=-1
+>-A-A=0
+>-A-B=0
+>-A-C=0
+>-A-D=0
+>-A-E=-1
 ##
 ### Kruskal's 
 >- This MST algorithm checks for cycles in the MST obtained  and give solution which has the minimum path
