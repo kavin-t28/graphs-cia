@@ -2,7 +2,7 @@
 ##
 
 
-> - The expected node weights are 
+> - The expected output is:
 >- A->A=0  
 >- A->B=3
 >- A->C=2
