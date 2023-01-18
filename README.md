@@ -4,11 +4,11 @@
 ##
 
 > - The expected node weights are 
-	>- A->A=0  
-	>- A->B=3
-	>- A->C=2
-	>- A->D=2
-	>- A->E=6 
+>- A->A=0  
+>- A->B=3
+>- A->C=2
+>- A->D=2
+>- A->E=6 
 ##
 ### Dijkstras
 >- When we are using dijkstra's algorithm we get a solution that satisfies for most of that condition since it can find path for directed graphs, but failing at finding the path for **A->D** and **A->E** since it does not consider negative weights and any alternate paths after one solution is found
