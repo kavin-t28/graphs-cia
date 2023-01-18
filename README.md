@@ -1,8 +1,6 @@
 ### DAA Submission for CIA-1
 ##
-####  Programming language choosen:C
-> I've Choosen the language C because 
-##
+
 
 > - The expected node weights are 
 >- A->A=0  
@@ -47,3 +45,6 @@
 ##
 >#### Thus an algorithm that satisfies all the conditon of directed and negative weight we make use of **Bellman ford algorithm.**		
 
+####  Programming language choosen:C
+> I've Choosen the language C because we learnt DSA in C and i feel it is easy to implement algorithms in C :) 
+##
