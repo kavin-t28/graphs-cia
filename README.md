@@ -44,5 +44,5 @@
 >-	A-D=1
 >-	A-E=3
 ##
->#### Thus an algorithm that satisfies all the conditon of directed and negative weight we make use of bellman ford algorithm.		
+>#### Thus an algorithm that satisfies all the conditon of directed and negative weight we make use of **Bellman ford algorithm.**		
 
