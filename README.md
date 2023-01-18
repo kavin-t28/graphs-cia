@@ -1,6 +1,7 @@
 ### DAA Submission for CIA-1
 ##
 ####  Programming language choosen:C
+> I've Choosen the language C because 
 ##
 
 > - The expected node weights are 
